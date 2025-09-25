@@ -1,6 +1,7 @@
 {
   "option": {
-    "home": "About"
+    "home": "Home",
+    "about": "About"
   },
   "authoring-phrase": {
     "intro": "Made with",
@@ -8,16 +9,16 @@
     "author": "by {brand} Development Team"
   },
   "about": {
-    "title": "About US",
-    "content": "ACME Learning center is Education Business Platform, part of ACME"
+    "title": "About Us",
+    "content": "ACME Learning Center is an Education Business Platform, part of ACME Corporation."
   },
   "home": {
     "title": "Welcome",
-    "content": "Welcome to ACME Learning, your gatewey to quality education. "
+    "content": "Welcome to ACME Learning Center, your gateway to quality education."
   },
   "page-not-found": {
     "title": "Page Not Found",
-    "content": "The path {unavailable-router} you are looking for does not exist.",
+    "content": "The path {unavailable-route} you are looking for does not exist.",
     "go-home": "Go Home"
   }
 }
